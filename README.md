@@ -1,2 +1,2 @@
 # ssip project titled event boooking system
-# project file on master branch
+Project file on master branch
